@@ -4,11 +4,11 @@
 
 ### What you’ll need
 + A favorite text editor or IDE
-+ JDK 6 or later
++ JDK 21 or later
 + Install Gradle
 
 ### Install Gradle
-+ **On Unix**
++ **On linux**
 
 ```
 $ sudo add-apt-repository ppa:cwchien/gradle
@@ -17,10 +17,7 @@ $ sudo apt-get install gradle
 ```
 
 
-+ **On Mac OS X**
-    + `brew install gradle`
 
-    + [Install Homebrew](http://brew.sh/).
 
 
 + **On Windows**
